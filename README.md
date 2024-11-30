@@ -7,6 +7,10 @@ Top level model
 Stateflow Implementation
 ![image](https://github.com/user-attachments/assets/68e89683-ea5c-474e-9df1-05bd51942a78)
 
+Test Harness
+
+![image](https://github.com/user-attachments/assets/1943d85d-de61-48b5-8515-80fb4007615c)
+
 Testing in Simulink test
 
 

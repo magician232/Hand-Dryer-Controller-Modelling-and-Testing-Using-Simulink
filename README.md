@@ -12,14 +12,18 @@ Testing in Simulink test
 
 ![image](https://github.com/user-attachments/assets/8fc89bed-2e9a-4e7d-9aa2-a674dd995a1b)
 
-Test Cases and Baseline Data [Here I have used manually created baseline data to comapre with the model output in MIL Results]
+Test Cases and Baseline Data [Here I have used manually created baseline data to comapare with the model output in MIL Results]
 ![image](https://github.com/user-attachments/assets/4951dd10-cb5e-4b04-93a7-29822cf195fa)
 
 
 MIL Test Results [Complete Report](https://github.com/magician232/Hand-Dryer-Controller-Modelling-and-Testing-Using-Simulink/blob/main/MIL_Testing_Report.pdf)
+
+
 ![image](https://github.com/user-attachments/assets/774371c6-e739-4d1e-b515-4dbfbbfc2a47)
 
 MIL And SIL Comparison [Complete Report](https://github.com/magician232/Hand-Dryer-Controller-Modelling-and-Testing-Using-Simulink/blob/main/MIL_SIL_Testing_Report.pdf)
+
+
 ![image](https://github.com/user-attachments/assets/12e0d00b-c80c-4104-aab5-c2fe28f294cb)
 
 

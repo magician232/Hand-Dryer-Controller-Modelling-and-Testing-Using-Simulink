@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HarnessInformation>
+  <Harness>
+    <P Name="Name">hand_dryer_controller_Harness</P>
+    <P Name="Description"/>
+    <P Name="CreatedBy">ACER</P>
+    <P Name="CreatedOn">Sat Nov 30 06:16:27 2024</P>
+    <P Name="ModifiedBy">ACER</P>
+    <P Name="LastSaved">Sat Nov 30 06:16:28 2024</P>
+    <P Name="Owner">bd</P>
+    <P Name="OwnerType">BD_HARNESS</P>
+    <P Name="OwnerPath">.</P>
+    <P Name="Directory"/>
+    <P Name="FileName">hand_dryer_controller_Harness.slx</P>
+    <P Name="SavedVersion">24.2</P>
+    <P Name="HarnessUUID">80e55920-0b93-4f03-9abf-33fafdf88d03</P>
+    <P Name="HarnessConnectionsMap">0,1|0,1|0,0,0,0||</P>
+    <P Name="VerificationMode">0</P>
+    <P Name="HarnessOwnerCheckSum">0,0,0,0</P>
+    <P Name="RebuildOnOpen">false</P>
+    <P Name="RebuildModelData">false</P>
+    <P Name="Graphical">false</P>
+    <P Name="DriveFcnCallWithTS">true</P>
+    <P Name="ScheduleInitTermReset">false</P>
+    <P Name="AutoShapeInputs">false</P>
+    <P Name="SLDVCompatible">no</P>
+    <P Name="SynchronizationMode">1</P>
+    <P Name="IsImported">false</P>
+    <P Name="PostRebuildCB"/>
+    <P Name="IsCodeContext">false</P>
+    <P Name="SchedulerBlock">0</P>
+    <P Name="SourceTypeString">Inport</P>
+    <P Name="SinkTypeString">Outport</P>
+    <P Name="CustomSourcePath"/>
+    <P Name="CustomSinkPath"/>
+    <P Name="BlockSIDs">2|12|0|0|0|0|0</P>
+    <P Name="OpenGraphs">||||hand_dryer_controller_Harness</P>
+    <P Name="ExistingBuildFolder"/>
+    <P Name="FunctionInterfaceName"/>
+    <P Name="SysArchSUTModel"/>
+  </Harness>
+  <ModelMetadata>
+    <P Name="ModelUUID">df20f95e-e007-4fa8-8538-9df38dc35709</P>
+    <P Name="OwnerBDName">hand_dryer_controller</P>
+  </ModelMetadata>
+</HarnessInformation>

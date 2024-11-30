@@ -1,5 +1,11 @@
 This project demonstrates how to model algorithms using Simulink. In this project, I have modeled an algorithm for a hand dryer controller using Simulink
 
+Requirements
+
+
+![image](https://github.com/user-attachments/assets/eec5cb77-2891-45e8-b698-b3c25812b621)
+![image](https://github.com/user-attachments/assets/03c9d20d-6180-44db-91aa-89881b505281)
+
 
 Top level model
 ![image](https://github.com/user-attachments/assets/5947c6d0-aeb7-41a8-b067-33e1be967474)
